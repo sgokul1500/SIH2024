@@ -1,46 +1,46 @@
 import React from 'react';
 
-import Rectangle1Image from 'src/assets/images/notifPage_Rectangle_1.png';
+// import Rectangle1Image from 'src/assets/images/notifPage_Rectangle_1.png';
 
-import LogoForCompanyNameMeImage from 'src/assets/images/notifPage_logo_for_company_name_mentor_connect_135901264_removebg_preview.png';
+// import LogoForCompanyNameMeImage from 'src/assets/images/notifPage_logo_for_company_name_mentor_connect_135901264_removebg_preview.png';
 
-import MkRemovebgPreviewImage from 'src/assets/images/notifPage_mk_removebg_preview.png';
+// import MkRemovebgPreviewImage from 'src/assets/images/notifPage_mk_removebg_preview.png';
 
-import PexelsSimonRobben559Image from 'src/assets/images/notifPage_pexels_simon_robben_55958_614810.png';
+// import PexelsSimonRobben559Image from 'src/assets/images/notifPage_pexels_simon_robben_55958_614810.png';
 
-import PexelsDanxavier11023Image from 'src/assets/images/notifPage_pexels_danxavier_1102341.png';
+// import PexelsDanxavier11023Image from 'src/assets/images/notifPage_pexels_danxavier_1102341.png';
 
-import PexelsSimonRobben5591Image from 'src/assets/images/notifPage_pexels_simon_robben_55958_614810.png';
+// import PexelsSimonRobben5591Image from 'src/assets/images/notifPage_pexels_simon_robben_55958_614810.png';
 
-import PexelsOlly3778876Image from 'src/assets/images/notifPage_pexels_olly_3778876.png';
+// import PexelsOlly3778876Image from 'src/assets/images/notifPage_pexels_olly_3778876.png';
 
-import PexelsBertellifotogrImage from 'src/assets/images/notifPage_pexels_bertellifotografia_3792581.png';
+// import PexelsBertellifotogrImage from 'src/assets/images/notifPage_pexels_bertellifotografia_3792581.png';
 
-import PexelsNkhajotia15166Image from 'src/assets/images/notifPage_pexels_nkhajotia_1516680.png';
+// import PexelsNkhajotia15166Image from 'src/assets/images/notifPage_pexels_nkhajotia_1516680.png';
 
-import PexelsDanxavier110231Image from 'src/assets/images/notifPage_pexels_danxavier_1102341.png';
+// import PexelsDanxavier110231Image from 'src/assets/images/notifPage_pexels_danxavier_1102341.png';
 
-import Ellipse2Image from 'src/assets/images/notifPage_Ellipse_2.png';
+// import Ellipse2Image from 'src/assets/images/notifPage_Ellipse_2.png';
 
-import PexelsJustinShaifer5Image from 'src/assets/images/notifPage_pexels_justin_shaifer_501272_1222271.png';
+// import PexelsJustinShaifer5Image from 'src/assets/images/notifPage_pexels_justin_shaifer_501272_1222271.png';
 
-import PexelsOlly37788761Image from 'src/assets/images/notifPage_pexels_olly_3778876.png';
+// import PexelsOlly37788761Image from 'src/assets/images/notifPage_pexels_olly_3778876.png';
 
-import PexelsSimonRobben5592Image from 'src/assets/images/notifPage_pexels_simon_robben_55958_614810.png';
+// import PexelsSimonRobben5592Image from 'src/assets/images/notifPage_pexels_simon_robben_55958_614810.png';
 
-import Rectangle11Image from 'src/assets/images/notifPage_Rectangle_1.png';
+// import Rectangle11Image from 'src/assets/images/notifPage_Rectangle_1.png';
 
-import AddUserMaleImage from 'src/assets/images/notifPage_Add_User_Male.png';
+// import AddUserMaleImage from 'src/assets/images/notifPage_Add_User_Male.png';
 
-import ChatBubbleImage from 'src/assets/images/notifPage_Chat_Bubble.png';
+// import ChatBubbleImage from 'src/assets/images/notifPage_Chat_Bubble.png';
 
-import UsersImage from 'src/assets/images/notifPage_Users.png';
+// import UsersImage from 'src/assets/images/notifPage_Users.png';
 
-import HomePageImage from 'src/assets/images/notifPage_Home_Page.png';
+// import HomePageImage from 'src/assets/images/notifPage_Home_Page.png';
 
-import MessageBotImage from 'src/assets/images/notifPage_Message_Bot.png';
+// import MessageBotImage from 'src/assets/images/notifPage_Message_Bot.png';
 
-import DashboardLayoutImage from 'src/assets/images/notifPage_Dashboard_Layout.png';
+// import DashboardLayoutImage from 'src/assets/images/notifPage_Dashboard_Layout.png';
 
 import {
   styled

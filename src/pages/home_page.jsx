@@ -1,62 +1,62 @@
 import React from 'react';
 
-import Rectangle1Image from 'src/assets/images/HomePage_Rectangle_1.png';
+// import Rectangle1Image from 'src/assets/images/HomePage_Rectangle_1.png';
 
-import LogoForCompanyNameMeImage from 'src/assets/images/HomePage_logo_for_company_name_mentor_connect_135901264_removebg_preview.png';
+// import LogoForCompanyNameMeImage from 'src/assets/images/HomePage_logo_for_company_name_mentor_connect_135901264_removebg_preview.png';
 
-import MkRemovebgPreviewImage from 'src/assets/images/HomePage_mk_removebg_preview.png';
+// import MkRemovebgPreviewImage from 'src/assets/images/HomePage_mk_removebg_preview.png';
 
-import PexelsSimonRobben559Image from 'src/assets/images/HomePage_pexels_simon_robben_55958_614810.png';
+// import PexelsSimonRobben559Image from 'src/assets/images/HomePage_pexels_simon_robben_55958_614810.png';
 
-import ChevronUpImage from 'src/assets/images/HomePage_Chevron_Up.png';
+// import ChevronUpImage from 'src/assets/images/HomePage_Chevron_Up.png';
 
-import FavoriteImage from 'src/assets/images/HomePage_Favorite.png';
+// import FavoriteImage from 'src/assets/images/HomePage_Favorite.png';
 
-import TopicImage from 'src/assets/images/HomePage_Topic.png';
+// import TopicImage from 'src/assets/images/HomePage_Topic.png';
 
-import ChevronUp1Image from 'src/assets/images/HomePage_Chevron_Up.png';
+// import ChevronUp1Image from 'src/assets/images/HomePage_Chevron_Up.png';
 
-import PexelsDanxavier11023Image from 'src/assets/images/HomePage_pexels_danxavier_1102341.png';
+// import PexelsDanxavier11023Image from 'src/assets/images/HomePage_pexels_danxavier_1102341.png';
 
-import Favorite1Image from 'src/assets/images/HomePage_Favorite.png';
+// import Favorite1Image from 'src/assets/images/HomePage_Favorite.png';
 
-import Topic1Image from 'src/assets/images/HomePage_Topic.png';
+// import Topic1Image from 'src/assets/images/HomePage_Topic.png';
 
-import PexelsSimonRobben5591Image from 'src/assets/images/HomePage_pexels_simon_robben_55958_614810.png';
+// import PexelsSimonRobben5591Image from 'src/assets/images/HomePage_pexels_simon_robben_55958_614810.png';
 
-import ChevronUp2Image from 'src/assets/images/HomePage_Chevron_Up.png';
+// import ChevronUp2Image from 'src/assets/images/HomePage_Chevron_Up.png';
 
-import Favorite2Image from 'src/assets/images/HomePage_Favorite.png';
+// import Favorite2Image from 'src/assets/images/HomePage_Favorite.png';
 
-import Topic2Image from 'src/assets/images/HomePage_Topic.png';
+// import Topic2Image from 'src/assets/images/HomePage_Topic.png';
 
-import PexelsSimonRobben5592Image from 'src/assets/images/HomePage_pexels_simon_robben_55958_614810.png';
+// import PexelsSimonRobben5592Image from 'src/assets/images/HomePage_pexels_simon_robben_55958_614810.png';
 
-import PexelsDanxavier110231Image from 'src/assets/images/HomePage_pexels_danxavier_1102341.png';
+// import PexelsDanxavier110231Image from 'src/assets/images/HomePage_pexels_danxavier_1102341.png';
 
-import PexelsSimonRobben5593Image from 'src/assets/images/HomePage_pexels_simon_robben_55958_614810.png';
+// import PexelsSimonRobben5593Image from 'src/assets/images/HomePage_pexels_simon_robben_55958_614810.png';
 
-import PexelsOlly3778876Image from 'src/assets/images/HomePage_pexels_olly_3778876.png';
+// import PexelsOlly3778876Image from 'src/assets/images/HomePage_pexels_olly_3778876.png';
 
-import Rectangle11Image from 'src/assets/images/HomePage_Rectangle_1.png';
+// import Rectangle11Image from 'src/assets/images/HomePage_Rectangle_1.png';
 
-import AddUserMaleImage from 'src/assets/images/HomePage_Add_User_Male.png';
+// import AddUserMaleImage from 'src/assets/images/HomePage_Add_User_Male.png';
 
-import ChatBubbleImage from 'src/assets/images/HomePage_Chat_Bubble.png';
+// import ChatBubbleImage from 'src/assets/images/HomePage_Chat_Bubble.png';
 
-import UsersImage from 'src/assets/images/HomePage_Users.png';
+// import UsersImage from 'src/assets/images/HomePage_Users.png';
 
-import HomePage2Image from 'src/assets/images/HomePage_Home_Page.png';
+// import HomePage2Image from 'src/assets/images/HomePage_Home_Page.png';
 
-import MessageBotImage from 'src/assets/images/HomePage_Message_Bot.png';
+// import MessageBotImage from 'src/assets/images/HomePage_Message_Bot.png';
 
-import DashboardLayoutImage from 'src/assets/images/HomePage_Dashboard_Layout.png';
+// import DashboardLayoutImage from 'src/assets/images/HomePage_Dashboard_Layout.png';
 
-import BellImage from 'src/assets/images/HomePage_Bell.png';
+// import BellImage from 'src/assets/images/HomePage_Bell.png';
 
-import Image4Image from 'src/assets/images/HomePage_image_4.png';
+// import Image4Image from 'src/assets/images/HomePage_image_4.png';
 
-import ImageImage from 'src/assets/images/HomePage_image.png';
+// import ImageImage from 'src/assets/images/HomePage_image.png';
 
 import {
   styled

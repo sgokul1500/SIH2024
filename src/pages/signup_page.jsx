@@ -1,36 +1,39 @@
 import React from 'react';
 
-import VectorImage from 'src/assets/images/Login3Register_Vector.png';
+// import VectorImage from 'src/assets/images/Login3Register_Vector.png';
 
-import Vector1Image from 'src/assets/images/Login3Register_Vector.png';
+// import Vector1Image from 'src/assets/images/Login3Register_Vector.png';
 
-import Vector2Image from 'src/assets/images/Login3Register_Vector.png';
+// import Vector2Image from 'src/assets/images/Login3Register_Vector.png';
 
-import Vector3Image from 'src/assets/images/Login3Register_Vector.png';
+// import Vector3Image from 'src/assets/images/Login3Register_Vector.png';
 
-import Vector4Image from 'src/assets/images/Login3Register_Vector.png';
+// import Vector4Image from 'src/assets/images/Login3Register_Vector.png';
 
-import Vector5Image from 'src/assets/images/Login3Register_Vector.png';
+// import Vector5Image from 'src/assets/images/Login3Register_Vector.png';
 
-import Vector6Image from 'src/assets/images/Login3Register_Vector.png';
+// import Vector6Image from 'src/assets/images/Login3Register_Vector.png';
 
-import Vector7Image from 'src/assets/images/Login3Register_Vector.png';
+// import Vector7Image from 'src/assets/images/Login3Register_Vector.png';
 
-import Vector8Image from 'src/assets/images/Login3Register_Vector.png';
+// import Vector8Image from 'src/assets/images/Login3Register_Vector.png';
 
-import Vector9Image from 'src/assets/images/Login3Register_Vector.png';
+// import Vector9Image from 'src/assets/images/Login3Register_Vector.png';
 
-import Vector10Image from 'src/assets/images/Login3Register_Vector.png';
+// import Vector10Image from 'src/assets/images/Login3Register_Vector.png';
 
-import Vector11Image from 'src/assets/images/Login3Register_Vector.png';
+// import Vector11Image from 'src/assets/images/Login3Register_Vector.png';
 
-import Vector12Image from 'src/assets/images/Login3Register_Vector.png';
+// import Vector12Image from 'src/assets/images/Login3Register_Vector.png';
 
 import {
   styled
 } from '@mui/material/styles';
 
-import Saly10 from 'src/components/Saly10/Saly10';
+// Change the Saly10 styled component name to avoid conflict
+const Saly10Styled = styled(Saly10)({
+  // ... styles
+});
 
 import Group37 from 'src/components/Group37/Group37';
 

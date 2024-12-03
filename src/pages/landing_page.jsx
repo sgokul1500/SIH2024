@@ -1,48 +1,48 @@
 import React from 'react';
 
-import Ellipse1Image from 'src/assets/images/landingpage_Ellipse_1.png';
+// import Ellipse1Image from 'src/assets/images/landingpage_Ellipse_1.png';
 
-import ImageImage from 'src/assets/images/landingpage_image.png';
+// import ImageImage from 'src/assets/images/landingpage_image.png';
 
-import Image1Image from 'src/assets/images/landingpage_image.png';
+// import Image1Image from 'src/assets/images/landingpage_image.png';
 
-import BackgroundImage from 'src/assets/images/landingpage_Background.png';
+// import BackgroundImage from 'src/assets/images/landingpage_Background.png';
 
-import Ellipse36Image from 'src/assets/images/landingpage_Ellipse_36.png';
+// import Ellipse36Image from 'src/assets/images/landingpage_Ellipse_36.png';
 
-import Ellipse39Image from 'src/assets/images/landingpage_Ellipse_39.png';
+// import Ellipse39Image from 'src/assets/images/landingpage_Ellipse_39.png';
 
-import Ellipse37Image from 'src/assets/images/landingpage_Ellipse_37.png';
+// import Ellipse37Image from 'src/assets/images/landingpage_Ellipse_37.png';
 
-import Ellipse34Image from 'src/assets/images/landingpage_Ellipse_34.png';
+// import Ellipse34Image from 'src/assets/images/landingpage_Ellipse_34.png';
 
-import Ellipse341Image from 'src/assets/images/landingpage_Ellipse_34.png';
+// import Ellipse341Image from 'src/assets/images/landingpage_Ellipse_34.png';
 
-import Ellipse342Image from 'src/assets/images/landingpage_Ellipse_34.png';
+// import Ellipse342Image from 'src/assets/images/landingpage_Ellipse_34.png';
 
-import Image2Image from 'src/assets/images/landingpage_image.png';
+// import Image2Image from 'src/assets/images/landingpage_image.png';
 
-import VectorImage from 'src/assets/images/landingpage_Vector.png';
+// import VectorImage from 'src/assets/images/landingpage_Vector.png';
 
-import Vector1Image from 'src/assets/images/landingpage_Vector.png';
+// import Vector1Image from 'src/assets/images/landingpage_Vector.png';
 
-import Vector2Image from 'src/assets/images/landingpage_Vector.png';
+// import Vector2Image from 'src/assets/images/landingpage_Vector.png';
 
-import Vector3Image from 'src/assets/images/landingpage_Vector.png';
+// import Vector3Image from 'src/assets/images/landingpage_Vector.png';
 
-import Vector4Image from 'src/assets/images/landingpage_Vector.png';
+// import Vector4Image from 'src/assets/images/landingpage_Vector.png';
 
-import Vector5Image from 'src/assets/images/landingpage_Vector.png';
+// import Vector5Image from 'src/assets/images/landingpage_Vector.png';
 
-import Vector6Image from 'src/assets/images/landingpage_Vector.png';
+// import Vector6Image from 'src/assets/images/landingpage_Vector.png';
 
-import Vector7Image from 'src/assets/images/landingpage_Vector.png';
+// import Vector7Image from 'src/assets/images/landingpage_Vector.png';
 
-import Q110Image from 'src/assets/images/landingpage__1_10.png';
+// import Q110Image from 'src/assets/images/landingpage__1_10.png';
 
-import CasualLife3DOrangePlImage from 'src/assets/images/landingpage_casual_life_3d_orange_planet_with_disk_1.png';
+// import CasualLife3DOrangePlImage from 'src/assets/images/landingpage_casual_life_3d_orange_planet_with_disk_1.png';
 
-import LogoForCompanyNameMeImage from 'src/assets/images/landingpage_logo_for_company_name_mentor_connect_135901264_removebg_preview.png';
+// import LogoForCompanyNameMeImage from 'src/assets/images/landingpage_logo_for_company_name_mentor_connect_135901264_removebg_preview.png';
 
 import {
   styled
@@ -103,7 +103,10 @@ const Image1 = styled("img")({
   top: `214px`,
 });
 
-const Footer = styled("div")({
+// Change the Footer styled component name to avoid conflict
+const FooterContainer = styled("div")({
+  // ... styles
+
   display: `flex`,
   position: `absolute`,
   isolation: `isolate`,

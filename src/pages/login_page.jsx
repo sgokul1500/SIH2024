@@ -1,22 +1,22 @@
 import React from 'react';
 
-import Saly10Image from 'src/assets/images/Login3_Saly_10.png';
+// import Saly10Image from 'src/assets/images/Login3_Saly_10.png';
 
-import VectorImage from 'src/assets/images/Login3_Vector.png';
+// import VectorImage from 'src/assets/images/Login3_Vector.png';
 
-import Message1Image from 'src/assets/images/Login3_message_1.png';
+// import Message1Image from 'src/assets/images/Login3_message_1.png';
 
-import Vector1Image from 'src/assets/images/Login3_Vector.png';
+// import Vector1Image from 'src/assets/images/Login3_Vector.png';
 
-import Vector2Image from 'src/assets/images/Login3_Vector.png';
+// import Vector2Image from 'src/assets/images/Login3_Vector.png';
 
-import Vector3Image from 'src/assets/images/Login3_Vector.png';
+// import Vector3Image from 'src/assets/images/Login3_Vector.png';
 
-import Vector4Image from 'src/assets/images/Login3_Vector.png';
+// import Vector4Image from 'src/assets/images/Login3_Vector.png';
 
-import Vector5Image from 'src/assets/images/Login3_Vector.png';
+// import Vector5Image from 'src/assets/images/Login3_Vector.png';
 
-import Group13Image from 'src/assets/images/Login3_Group_13.png';
+// import Group13Image from 'src/assets/images/Login3_Group_13.png';
 
 import {
   styled

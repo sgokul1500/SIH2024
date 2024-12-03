@@ -1,38 +1,38 @@
 import React from 'react';
 
-import Rectangle1Image from 'src/assets/images/AiPage_Rectangle_1.png';
+// import Rectangle1Image from 'src/assets/images/AiPage_Rectangle_1.png';
 
-import LogoForCompanyNameMeImage from 'src/assets/images/AiPage_logo_for_company_name_mentor_connect_135901264_removebg_preview.png';
+// import LogoForCompanyNameMeImage from 'src/assets/images/AiPage_logo_for_company_name_mentor_connect_135901264_removebg_preview.png';
 
-import MkRemovebgPreviewImage from 'src/assets/images/AiPage_mk_removebg_preview.png';
+// import MkRemovebgPreviewImage from 'src/assets/images/AiPage_mk_removebg_preview.png';
 
-import Rectangle96Image from 'src/assets/images/AiPage_Rectangle_96.png';
+// import Rectangle96Image from 'src/assets/images/AiPage_Rectangle_96.png';
 
-import Rectangle99Image from 'src/assets/images/AiPage_Rectangle_99.png';
+// import Rectangle99Image from 'src/assets/images/AiPage_Rectangle_99.png';
 
-import Rectangle97Image from 'src/assets/images/AiPage_Rectangle_97.png';
+// import Rectangle97Image from 'src/assets/images/AiPage_Rectangle_97.png';
 
-import Rectangle98Image from 'src/assets/images/AiPage_Rectangle_98.png';
+// import Rectangle98Image from 'src/assets/images/AiPage_Rectangle_98.png';
 
-import Ellipse8Image from 'src/assets/images/AiPage_Ellipse_8.png';
+// import Ellipse8Image from 'src/assets/images/AiPage_Ellipse_8.png';
 
-import EmailSendImage from 'src/assets/images/AiPage_Email_Send.png';
+// import EmailSendImage from 'src/assets/images/AiPage_Email_Send.png';
 
-import Rectangle11Image from 'src/assets/images/AiPage_Rectangle_1.png';
+// import Rectangle11Image from 'src/assets/images/AiPage_Rectangle_1.png';
 
-import AddUserMaleImage from 'src/assets/images/AiPage_Add_User_Male.png';
+// import AddUserMaleImage from 'src/assets/images/AiPage_Add_User_Male.png';
 
-import ChatBubbleImage from 'src/assets/images/AiPage_Chat_Bubble.png';
+// import ChatBubbleImage from 'src/assets/images/AiPage_Chat_Bubble.png';
 
-import UsersImage from 'src/assets/images/AiPage_Users.png';
+// import UsersImage from 'src/assets/images/AiPage_Users.png';
 
-import HomePageImage from 'src/assets/images/AiPage_Home_Page.png';
+// import HomePageImage from 'src/assets/images/AiPage_Home_Page.png';
 
-import MessageBotImage from 'src/assets/images/AiPage_Message_Bot.png';
+// import MessageBotImage from 'src/assets/images/AiPage_Message_Bot.png';
 
-import DashboardLayoutImage from 'src/assets/images/AiPage_Dashboard_Layout.png';
+// import DashboardLayoutImage from 'src/assets/images/AiPage_Dashboard_Layout.png';
 
-import BellImage from 'src/assets/images/AiPage_Bell.png';
+// import BellImage from 'src/assets/images/AiPage_Bell.png';
 
 import {
   styled
